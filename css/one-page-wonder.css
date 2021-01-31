@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-custom {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgb(0, 0, 0);
   padding: 0;
 }
 
@@ -117,4 +117,8 @@ header.masthead .masthead-content .masthead-subheading {
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
+}
+
+.social__buttons {
+  display: inline;
 }
