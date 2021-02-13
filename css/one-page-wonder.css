@@ -122,3 +122,9 @@ header.masthead .masthead-content .masthead-subheading {
 .social__buttons {
   display: inline;
 }
+
+.aspectRatioBox {
+  padding-top: calc(2 / 3 * 100%);
+  background-size: cover;
+  background-position: center;
+}
